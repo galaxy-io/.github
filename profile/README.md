@@ -6,7 +6,7 @@
 
 ## Welcome to Galaxy!
 
-We're building the context layer that powers modern analytics, workflows, and AI applications. Turn fragmented data spread across your organization into shared understandi
+We're building the context layer that powers modern analytics, workflows, and AI applications. Turn fragmented data spread across your organization into shared understanding.
 
 Visit [getgalaxy.io](https://www.getgalaxy.io?utm_source=github) to learn more, or explore our open-source tools below
 
