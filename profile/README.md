@@ -1,4 +1,8 @@
-![An image saying "Get AI-ready with Galaxy. Turn fragmented data into shared understanding to drive growth, lower cost, and improve efficiency. www.getgalaxy.io"](/main.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/main-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/main-light.png">
+  <img alt="Get AI-ready with Galaxy. Turn fragmented data into shared understanding to drive growth, lower cost, and improve efficiency. www.getgalaxy.io" src="/main-light.png">
+</picture>
 
 ## Welcome to Galaxy!
 
