@@ -10,7 +10,7 @@ We're building the context layer that powers modern analytics, workflows, and AI
 
 Visit [our website](https://www.getgalaxy.io?utm_source=github) to learn more, or explore our open-source tools below.
 
-### Our Tools
+### Open-source
 
 Here are the tools we actively maintain while building Galaxy:
 
