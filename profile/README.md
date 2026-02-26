@@ -1,6 +1,6 @@
-## 👋 Welcome to Galaxy!
-
 ![An image saying "Get AI-ready with Galaxy. Turn fragmented data into shared understanding to drive growth, lower cost, and improve efficiency. www.getgalaxy.io"](/main.png)
+
+## 👋 Welcome to Galaxy!
 
 We're building the context layer that powers modern analytics, workflows, and AI applications. Turn fragmented data spread across your organization into shared understanding that your team, and your AI, can actually rely on.
 
