@@ -6,12 +6,12 @@
 
 ## Welcome to Galaxy!
 
-We're building the context layer that powers modern analytics, workflows, and AI applications. Turn fragmented data spread across your organization into shared understanding that your team, and your AI, can actually rely on.
+We're building the context layer that powers modern analytics, workflows, and AI applications. Turn fragmented data spread across your organization into shared understandi
 
 Visit [getgalaxy.io](https://www.getgalaxy.io?utm_source=github) to learn more, or explore our open-source tools below
 
-### Our Projects
+### Our Tools
 
-We publicly build and maintain tools we use to create Galaxy:
+Here are the tools we actively maintain while building Galaxy:
 
 - [Tempo](https://github.com/galaxy-io/tempo) - A Temporal TUI that matches your rhythm
