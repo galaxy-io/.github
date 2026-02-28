@@ -12,6 +12,6 @@ Visit [our website](https://www.getgalaxy.io?utm_source=github) to learn more, o
 
 ### Community
 
-Here are the open-source tools we actively maintain while building Galaxy:
+Here are open-source tools we actively maintain while building Galaxy:
 
 - [Tempo](https://github.com/galaxy-io/tempo) - A Temporal TUI that matches your rhythm
