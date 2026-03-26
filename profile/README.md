@@ -14,4 +14,5 @@ Visit [our website](https://www.getgalaxy.io?utm_source=github) to learn more, o
 
 Here are open-source tools we actively maintain while building Galaxy:
 
-- [Tempo](https://github.com/galaxy-io/tempo) - A Temporal TUI that matches your rhythm
+- [tempo](https://github.com/galaxy-io/tempo) - A Temporal TUI that matches your rhythm
+- [gnat](https://github.com/galaxy-io/gnat) - A NATS TUI that doesn't bug you
