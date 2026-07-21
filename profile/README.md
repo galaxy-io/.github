@@ -16,3 +16,4 @@ Here are open-source tools we actively maintain while building Galaxy:
 
 - [tempo](https://github.com/galaxy-io/tempo) - A Temporal TUI that matches your rhythm
 - [gnat](https://github.com/galaxy-io/gnat) - A NATS TUI that doesn't bug you
+- [sparktop](https://github.com/galaxy-io/sparktop) - A DGX Spark TUI that takes the heat
