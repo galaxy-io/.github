@@ -15,6 +15,6 @@ Visit [our website](https://www.getgalaxy.io?utm_source=github) to learn more, o
 Here are open-source tools we actively maintain while building Galaxy:
 
 - [filament](https://github.com/galaxy-io/filament) - Pluggable data replication with checkpointing, batching, and integrity events
-- [tempo](https://github.com/galaxy-io/tempo) - A Temporal TUI that matches your rhythm
-- [gnat](https://github.com/galaxy-io/gnat) - A NATS TUI that doesn't bug you
-- [sparktop](https://github.com/galaxy-io/sparktop) - A DGX Spark TUI that takes the heat
+- [tempo](https://github.com/galaxy-io/tempo) - Keyboard-driven terminal client for inspecting and controlling Temporal workflows
+- [gnat](https://github.com/galaxy-io/gnat) - Keyboard-driven terminal client for managing and monitoring NATS JetStream
+- [sparktop](https://github.com/galaxy-io/sparktop) - Live per-node GPU, host, and vLLM stats for DGX Spark clusters, in your terminal
